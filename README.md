@@ -1,7 +1,7 @@
 # Other-Analysis
 Contains analysis of things I am interested in
 
-#Ethiopian Import ban Analysis
+## Ethiopian Import ban Analysis
 
 Hi,
 
